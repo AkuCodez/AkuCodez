@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Akshaj Tiwari]  
+# 👋 Hi, I'm Akshaj Tiwari
 
 ## 🚀 About Me  
 - 🎓 Computer Science student passionate about **Web Development & Open Source**  
