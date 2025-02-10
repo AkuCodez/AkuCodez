@@ -33,9 +33,8 @@
 🛠 **Tech Stack:** HTML, CSS, Javascript  
 🔹 [Live Demo](https://csi-quiz.vercel.app/)
 
-### 📌 [Project 2 Name](https://github.com/yourusername/project2)  
-🛠 **Tech Stack:** MERN Stack, Redux  
-🔹 [Live Demo](https://yourwebsite.com)   
+### 📌 [BOAT CLONE](https://github.com/yourusername/project2)  
+🛠 **Tech Stack:** EJS, Bootstrap    
 
 ---
 
