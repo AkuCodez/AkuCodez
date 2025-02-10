@@ -33,7 +33,7 @@
 🛠 **Tech Stack:** HTML, CSS, Javascript  
 🔹 [Live Demo](https://csi-quiz.vercel.app/)
 
-### 📌 [BOAT CLONE](https://github.com/AkuCodez/project2)  
+### 📌 [BOAT CLONE](https://github.com/AkuCodez/Codechef-Task)  
 🛠 **Tech Stack:** EJS, Bootstrap    
 
 ---
