@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akshaj Tiwari
 
 ## 🚀 About Me  
-- 🎓 Computer Science student passionate about **Web Development & Open Source**  
+- 🎓 Computer Science student passionate about **Web Development & Artificial Intelligence**  
 - 💡 I love building **full-stack web applications** using **MERN, Bootstrap, and Tailwind CSS**  
 - 📚 Constantly learning **new technologies & problem-solving**  
 
