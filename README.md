@@ -29,24 +29,20 @@
 
 ## 🔥 My Projects  
 
-### 📌 [Project 1 Name](https://github.com/yourusername/project1)  
-🛠 **Tech Stack:** React, Tailwind CSS, Firebase  
+### 📌 [Project 1 Name](https://github.com/AkuCodez/CSI-Quiz)  
+🛠 **Tech Stack:** HTML, CSS, Javascript  
 🔹 [Live Demo](https://yourwebsite.com)  
 
 ### 📌 [Project 2 Name](https://github.com/yourusername/project2)  
 🛠 **Tech Stack:** MERN Stack, Redux  
-🔹 [Live Demo](https://yourwebsite.com)  
-
-### 📌 [Project 3 Name](https://github.com/yourusername/project3)  
-🛠 **Tech Stack:** Next.js, MongoDB, JWT  
-🔹 [Live Demo](https://yourwebsite.com)  
+🔹 [Live Demo](https://yourwebsite.com)   
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkuCodez&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuCodez&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -54,7 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshajtiwari1304@gmail.com)  
 
 ---
 
