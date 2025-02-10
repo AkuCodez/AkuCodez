@@ -29,9 +29,9 @@
 
 ## 🔥 My Projects  
 
-### 📌 [Project 1 Name](https://github.com/AkuCodez/CSI-Quiz)  
+### 📌 [CSI QUIZ](https://github.com/AkuCodez/CSI-Quiz)  
 🛠 **Tech Stack:** HTML, CSS, Javascript  
-🔹 [Live Demo](https://yourwebsite.com)  
+🔹 [Live Demo](https://csi-quiz.vercel.app/)
 
 ### 📌 [Project 2 Name](https://github.com/yourusername/project2)  
 🛠 **Tech Stack:** MERN Stack, Redux  
