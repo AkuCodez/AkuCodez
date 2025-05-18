@@ -29,6 +29,13 @@
 
 ## 🔥 My Projects  
 
+### 📌 [Animal Image Classifier](https://github.com/AkuCodez/Animal_Classifier)  
+🔍 A deep learning project that classifies images of animals into 15 categories using Convolutional Neural Networks and Transfer Learning.  
+🖼️ Input: 224x224 images of animals  
+📦 Output: Predicted animal class (e.g., Dog, Cat, Elephant, etc.)  
+🛠 **Tech Stack:** Python, TensorFlow/Keras, Google Colab, Matplotlib  
+🔹 [GitHub Repo](https://github.com/AkuCodez/Animal_Classifier)
+
 ### 📌 [CSI QUIZ](https://github.com/AkuCodez/CSI-Quiz)  
 🛠 **Tech Stack:** HTML, CSS, Javascript  
 🔹 [Live Demo](https://csi-quiz.vercel.app/)
