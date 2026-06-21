@@ -77,7 +77,7 @@
 
 ### STACK
 
-**AI / ML Core**
+AI / ML Core
 <br/>
 <img src="https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/PyTorch-00D9FF?style=flat-square&logo=pytorch&logoColor=0A0E27" />
@@ -85,8 +85,14 @@
 <img src="https://img.shields.io/badge/Keras-00D9FF?style=flat-square&logo=keras&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/OpenCV-00D9FF?style=flat-square&logo=opencv&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/scikit--learn-00D9FF?style=flat-square&logo=scikitlearn&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/NumPy-00D9FF?style=flat-square&logo=numpy&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/Pandas-00D9FF?style=flat-square&logo=pandas&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/Matplotlib-00D9FF?style=flat-square&logo=matplotlib&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/MediaPipe-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-00D9FF?style=flat-square&logo=streamlit&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/Gradio-00D9FF?style=flat-square" />
 
-**LLM & Agentic Infra**
+LLM & Agentic Infra
 <br/>
 <img src="https://img.shields.io/badge/LangGraph-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-A78BFA?style=flat-square&logo=langchain&logoColor=0A0E27" />
@@ -94,27 +100,26 @@
 <img src="https://img.shields.io/badge/ChromaDB-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Groq-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Hugging%20Face-A78BFA?style=flat-square&logo=huggingface&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/Whisper-A78BFA?style=flat-square&logo=openai&logoColor=0A0E27" />
 
-**Data & Backend**
+Data & Backend
 <br/>
 <img src="https://img.shields.io/badge/Supabase-34D399?style=flat-square&logo=supabase&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/DuckDB-34D399?style=flat-square&logo=duckdb&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/MongoDB-34D399?style=flat-square&logo=mongodb&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/Node.js-34D399?style=flat-square&logo=node.js&logoColor=0A0E27" />
 
-**Web — secondary**
+Web — secondary
 <br/>
 <img src="https://img.shields.io/badge/React-64748B?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-64748B?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-64748B?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-**Tooling**
+Tooling
 <br/>
 <img src="https://img.shields.io/badge/Git-F59E0B?style=flat-square&logo=git&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/GitHub-F59E0B?style=flat-square&logo=github&logoColor=0A0E27" />
 <img src="https://img.shields.io/badge/Vercel-F59E0B?style=flat-square&logo=vercel&logoColor=0A0E27" />
-
----
 
 ### METRICS
 
