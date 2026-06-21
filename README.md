@@ -68,10 +68,10 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **NeuroSentinel** | Speech/audio ML system — built under hackathon constraints | — | HackSphere 2026, 2nd Place |
-| **AirPoint** | Touchless HCI via real-time hand-gesture tracking | MediaPipe | [repo](https://github.com/AkuCodez) <!-- add link --> |
+| **NeuroSentinel** | Speech/audio ML systems built under hackathon constraints | scikit-learm Random Forest Classifier, Vosk, Librosa, NumPy| [repo](https://github.com/AkuCodez/NeuroSentinal-) |
+| **AirPoint** | Touchless HCI via real-time hand-gesture tracking | MediaPipe | [repo]([https://github.com/AkuCodez](https://github.com/AkuCodez/airpoint)) <!-- add link --> |
 | **Animal Classifier** | 15-class CNN, transfer learning | TensorFlow, Keras | [repo](https://github.com/AkuCodez/Animal_Classifier) |
-| **Tracemind** | <!-- need description --> | <!-- need stack --> | [repo](https://github.com/AkuCodez) <!-- add link --> |
+| **Tracemind** | AI-Powered Pharmaceutical Supply Chain Integrity System | FastAPI + Python, scikit-learn Isolation Forest, Supabase, Ethereum Sepolia, Next.js, Tailwind| [repo](https://github.com/AkuCodez/TraceMind) |
 
 ---
 
