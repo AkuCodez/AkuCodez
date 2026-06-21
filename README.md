@@ -68,11 +68,10 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **NeuralCity** | NL-to-SQL pipeline over India crop production data | DuckDB, Groq LLaMA 3.3 70B, Gradio | [repo](https://github.com/AkuCodez) <!-- add link --> |
 | **NeuroSentinel** | Speech/audio ML system — built under hackathon constraints | — | HackSphere 2026, 2nd Place |
 | **AirPoint** | Touchless HCI via real-time hand-gesture tracking | MediaPipe | [repo](https://github.com/AkuCodez) <!-- add link --> |
 | **Animal Classifier** | 15-class CNN, transfer learning | TensorFlow, Keras | [repo](https://github.com/AkuCodez/Animal_Classifier) |
-| **AQ Dashboard** | IoT sensor pipeline → live air-quality monitoring | ESP32 | — |
+| **Tracemind** | <!-- need description --> | <!-- need stack --> | [repo](https://github.com/AkuCodez) <!-- add link --> |
 
 ---
 
@@ -121,10 +120,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkuCodez&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E4E4E7&icon_color=A78BFA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkuCodez&show_icons=true&count_private=true&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E4E4E7&icon_color=A78BFA" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkuCodez&layout=compact&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E4E4E7" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=AkuCodez&hide_border=true&background=0A0E27&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=AkuCodez&hide_border=true&background=0A0E27&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=E4E4E7&dates=64748B" width="60%"/>
 
 </div>
 
