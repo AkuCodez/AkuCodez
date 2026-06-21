@@ -126,9 +126,8 @@ Tooling
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AkuCodez&show_icons=true&count_private=true&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E4E4E7&icon_color=A78BFA" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkuCodez&layout=compact&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E4E4E7" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=AkuCodez&hide_border=true&background=0A0E27&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=E4E4E7&dates=64748B" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=AkuCodez&hide_border=true&background=0A0E27&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&sideLabels=E4E4E7&dates=64748B" width="60%"/>
 </div>
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0A0E27&height=100&section=footer"/>
