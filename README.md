@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Building+production+AI%2C+not+notebooks;LangGraph+%C2%B7+LangFuse+%C2%B7+RAG+%C2%B7+LLMOps;Third-year+CSE+(AI%2FML)+%E2%80%94+VIT+Vellore"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Building+production+AI%2C+not+notebooks;LangGraph+%C2%B7+LangFuse+%C2%B7+RAG+%C2%B7+LLMOps;Fourth-year+CSE+(AI%2FML)+%E2%80%94+VIT+Vellore"/>
 
 </div>
 
