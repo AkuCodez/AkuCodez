@@ -25,7 +25,7 @@
 
 ### ABOUT
 
-- Third-year **CSE (AI/ML specialization)** student, **VIT Vellore**
+- Fourth-year **CSE (AI/ML specialization)** student, **VIT Vellore**
 - I build AI systems that survive contact with production — observability, vector retrieval, state machines, shareable infra — not just notebooks that work once
 - **AWS Certified AI Practitioner**
 - Currently deep in: LangGraph orchestration, RAG/dedup pipelines, LLM observability tooling
