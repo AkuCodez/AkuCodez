@@ -123,8 +123,9 @@ Tooling
 ### METRICS
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkuCodez&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkuCodez&theme=github_dark" width="98%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkuCodez&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkuCodez&theme=github_dark" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=AkuCodez&hide_border=true&background=0A0E27&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&sideLabels=E4E4E7&dates=64748B" width="60%"/>
 </div>
 
