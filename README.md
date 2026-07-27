@@ -60,7 +60,6 @@
 | **Whisper + Groq/LLaMA** | Voice-driven interview loop, low-latency inference |
 
 <a href="https://github.com/AkuCodez/ARES"><img src="https://img.shields.io/badge/View%20Repository-0A0E27?style=flat-square&logo=github&logoColor=00D9FF" /></a>
-<!-- swap in real ARES repo link -->
 
 ---
 
@@ -68,7 +67,7 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **NeuroSentinel** | Speech/audio ML systems built under hackathon constraints | scikit-learm Random Forest Classifier, Vosk, Librosa, NumPy| [repo](https://github.com/AkuCodez/NeuroSentinal-) |
+| **NeuroSentinel** | Speech/audio ML systems built under hackathon constraints | scikit-learn Random Forest Classifier, Vosk, Librosa, NumPy| [repo](https://github.com/AkuCodez/NeuroSentinal-) |
 | **AirPoint** | Touchless HCI via real-time hand-gesture tracking | MediaPipe | [repo](https://github.com/AkuCodez/airpoint) |
 | **Animal Classifier** | 15-class CNN, transfer learning | TensorFlow, Keras | [repo](https://github.com/AkuCodez/Animal_Classifier) |
 | **Tracemind** | AI-Powered Pharmaceutical Supply Chain Integrity System | FastAPI + Python, scikit-learn Isolation Forest, Supabase, Ethereum Sepolia, Next.js, Tailwind| [repo](https://github.com/AkuCodez/TraceMind) |
@@ -124,8 +123,8 @@ Tooling
 ### METRICS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AkuCodez&show_icons=true&count_private=true&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E4E4E7&icon_color=A78BFA" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkuCodez&layout=compact&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E4E4E7" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkuCodez&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkuCodez&theme=github_dark" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=AkuCodez&hide_border=true&background=0A0E27&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&sideLabels=E4E4E7&dates=64748B" width="60%"/>
 </div>
 
